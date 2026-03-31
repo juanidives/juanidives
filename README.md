@@ -13,7 +13,7 @@ Tenho experiência liderando iniciativas estratégicas de dados de ponta a ponta
 
 ---
 
-## Contato
+## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-antonio-morales/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:juan.morales@outlook.com.br)
